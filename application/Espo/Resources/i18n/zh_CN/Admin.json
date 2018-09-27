@@ -126,7 +126,7 @@
     "disableFormatting": "禁用格式",
     "dynamicLogicVisible": "条件使字段可见",
     "dynamicLogicReadOnly": "条件使字段只读",
-    "dynamicLogicRequired": "条件使字段可得",
+    "dynamicLogicRequired": "条件使字段必须",
     "dynamicLogicOptions": "条件选项",
     "probabilityMap": "阶段概率 (%)",
     "readOnly": "只读",

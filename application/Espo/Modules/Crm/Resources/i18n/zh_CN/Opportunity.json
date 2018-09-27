@@ -1,7 +1,7 @@
 {
   "fields": {
     "name": "名称",
-    "account": "客户",
+    "account": "付费客户",
     "stage": "阶段",
     "amount": "项目预算",
     "probability": "概率%",

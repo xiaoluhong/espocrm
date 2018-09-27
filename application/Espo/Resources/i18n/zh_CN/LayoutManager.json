@@ -12,8 +12,8 @@
   },
   "options": {
     "align": {
-      "left": "剩下",
-      "right": "对"
+      "left": "左对齐",
+      "right": "右对齐"
     },
     "style": {
       "default": "默认",

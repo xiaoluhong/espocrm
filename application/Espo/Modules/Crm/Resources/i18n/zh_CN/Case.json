@@ -3,7 +3,7 @@
     "name": "名称",
     "number": "编号",
     "status": "状态",
-    "account": "客户",
+    "account": "付费客户",
     "contact": "联系人",
     "contacts": "联系人",
     "priority": "优先",
@@ -15,7 +15,7 @@
   },
   "links": {
     "inboundEmail": "入站电子邮件",
-    "account": "客户",
+    "account": "付费客户",
     "contact": "联系人（主）",
     "Contacts": "联系人",
     "meetings": "会晤",

@@ -24,7 +24,7 @@
     "linkMultipleField": "连接多个字段",
     "linkMultipleFieldForeign": "外部连接多个字段",
     "disabled": "禁用",
-    "textFilterFields": "文本过滤字段",
+    "textFilterFields": "收拾字段\"",
     "audited": "已审核",
     "auditedForeign": "外部审核",
     "statusField": "字段状态",
@@ -60,7 +60,7 @@
   "messages": {
     "entityCreated": "实体已创建",
     "linkAlreadyExists": "连接名称冲突。",
-    "linkConflict": "名称冲突：已存在同名连接或字段。"
+    "linkConflict": "名称冲突: 已存在同名连接或字段。"
   },
   "tooltips": {
     "statusField": "此字段的更新记录在信息流中。",

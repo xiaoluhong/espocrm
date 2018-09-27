@@ -16,7 +16,7 @@
     "Available placeholders": "可用变量"
   },
   "messages": {
-    "infoText": "可用变量：\n\n{optOutUrl} &#8211; URL为一个退订链接;\n\n{optOutLink} &#8211;一个退订链接。"
+    "infoText": "可用变量: \n\n{optOutUrl} &#8211; URL为一个退订链接;\n\n{optOutLink} &#8211;一个退订链接。"
   },
   "tooltips": {
     "oneOff": "如果此模板你仅用一次则选中此项。例如，批量邮件。"

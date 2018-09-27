@@ -15,14 +15,14 @@
   },
   "options": {
     "status": {
-      "Pending": "有待",
+      "Pending": "等待",
       "Sent": "发送",
       "Failed": "失败",
       "Sending": "发送中"
     }
   },
   "presetFilters": {
-    "pending": "有待",
+    "pending": "等待",
     "sent": "发送",
     "failed": "失败"
   }

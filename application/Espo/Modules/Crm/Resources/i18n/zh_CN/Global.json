@@ -8,15 +8,15 @@
     "calls": "通话",
     "tasks": "任务",
     "emails": "电子邮件",
-    "accounts": "客户",
+    "accounts": "付费客户",
     "cases": "工单",
     "documents": "文件",
-    "account": "客户",
+    "account": "付费客户",
     "opportunity": "商机",
     "contact": "联系人"
   },
   "scopeNames": {
-    "Account": "客户",
+    "Account": "付费客户",
     "Contact": "联系人",
     "Lead": "潜在客户",
     "Target": "目标",
@@ -39,7 +39,7 @@
     "CampaignLogRecord": "营销活动日志记录"
   },
   "scopeNamesPlural": {
-    "Account": "客户",
+    "Account": "付费客户",
     "Contact": "联系人",
     "Lead": "潜在客户",
     "Target": "目标",

@@ -6,13 +6,14 @@
     "username": "用户名",
     "password": "密码",
     "port": "端口",
-    "monitoredFolders": "监视的文件夹",
-    "fetchSince": "获取从",
+    "monitoredFolders": "同步文件夹",
+    "fetchSince": "选择已发邮件日期",
     "emailAddress": "邮件地址",
     "sentFolder": "发送文件夹",
     "storeSentEmails": "存储发送的邮件",
-    "keepFetchedEmailsUnread": "保持获取的邮件为未读",
+    "keepFetchedEmailsUnread": "获取的邮件为未读",
     "emailFolder": "放入文件夹",
+    "useImap": "获取已发邮件",
     "useSmtp": "使用SMTP",
     "smtpHost": "SMTP主机",
     "smtpPort": "SMTP端口",
@@ -42,7 +43,7 @@
     "connectionIsOk": "连接正常"
   },
   "tooltips": {
-    "monitoredFolders": "多个文件夹用逗号分隔。\n\n添加 ‘Sent’ 文件夹与外部邮件客户端同步已发邮件。",
+    "monitoredFolders": "多个文件夹用逗号分隔。\n可以添加一个'已发送'文件夹来同步从外部电子邮件客户端发送的邮件。",
     "storeSentEmails": "发送的电子邮件将存储在IMAP服务器上,电子邮件地址字段应该与将要发送的电子邮件地址匹配。"
   }
 }

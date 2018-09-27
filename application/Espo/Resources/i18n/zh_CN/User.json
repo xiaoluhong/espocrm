@@ -2,7 +2,7 @@
   "fields": {
     "name": "名称",
     "userName": "用户名",
-    "title": "标题",
+    "title": "职位",
     "isAdmin": "管理员",
     "defaultTeam": "默认团队",
     "emailAddress": "电子邮件",
@@ -10,7 +10,7 @@
     "roles": "角色",
     "portals": "门户",
     "portalRoles": "门户角色",
-    "teamRole": "位置",
+    "teamRole": "职位",
     "password": "密码",
     "currentPassword": "当前密码",
     "passwordConfirm": "确认密码",
@@ -20,12 +20,12 @@
     "isActive": "活跃",
     "isPortalUser": "门户用户",
     "contact": "联系人",
-    "accounts": "客户",
+    "accounts": "付费客户",
     "account": "帐户（主要）",
     "sendAccessInfo": "通过邮件向用户发送访问信息.",
     "portal": "门户网站",
     "gender": "性别",
-    "position": "在队中的位置",
+    "position": "职位",
     "ipAddress": "IP地址",
     "passwordPreview": "密码预览",
     "isSuperAdmin": "超级管理员",
@@ -38,7 +38,7 @@
     "portals": "门户",
     "portalRoles": "门户角色",
     "contact": "联系人",
-    "accounts": "客户",
+    "accounts": "付费客户",
     "account": "帐户（主要）",
     "tasks": "任务"
   },
@@ -46,7 +46,7 @@
     "Create User": "创建用户",
     "Generate": "生成",
     "Access": "访问",
-    "Preferences": "优先",
+    "Preferences": "首选项",
     "Change Password": "更改密码",
     "Teams and Access Control": "团队和访问控制",
     "Forgot Password?": "忘记密码？",
@@ -65,13 +65,13 @@
     "isActive": "如果取消选中则用户将无法登录。",
     "teams": "该用户所属的团队。访问控制级别从团队角色继承。",
     "roles": "其他访问角色。如果用户不属于任何团队，或者需要为此用户专门扩展访问控制级别，请使用此角色。",
-    "portalRoles": "其他门户网站角色。使用它来为此用户专门扩展访问控制级别。",
+    "portalRoles": "(可选)其他门户角色。使用它来为此用户专门扩展访问控制级别。",
     "portals": "此用户有权访问的门户。"
   },
   "messages": {
     "passwordWillBeSent": "密码将发送到用户的电子邮件地址。",
-    "accountInfoEmailSubject": "EspoCRM用户访问信息",
-    "accountInfoEmailBody": "您的访问信息：\n\n用户名：{userName}\n密码：{password}\n\n{siteUrl}",
+    "accountInfoEmailSubject": "用户访问信息",
+    "accountInfoEmailBody": "您的访问信息: \n\n用户名: {userName} \n密码: {password} \n\n访问地址: {siteUrl}",
     "passwordChangeLinkEmailSubject": "更改密码请求",
     "passwordChangeLinkEmailBody": "您可以通过以下链接来更改密码{link}。此唯一网址即将过期。",
     "passwordChanged": "密码已被更改",
@@ -88,9 +88,9 @@
   "options": {
     "gender": {
       "": "未设置",
-      "Male": "男士",
-      "Female": "女士",
-      "Neutral": "中立的"
+      "Male": "男",
+      "Female": "女",
+      "Neutral": "中立"
     }
   },
   "boolFilters": {
